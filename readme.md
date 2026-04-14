@@ -68,7 +68,7 @@ jobs:
     if: startsWith(github.ref, 'refs/tags/')
 
 
-## Secrets Configuration ##
+**## Secrets Configuration ##**
 
 GitHub Secrets can be added in:
 
@@ -89,3 +89,9 @@ python app.py
 Open in browser:
 
 http://localhost:5000
+
+**Below with the Repo details**
+* New repo
+* GitHub Actions workflow
+* README
+* Screenshots
