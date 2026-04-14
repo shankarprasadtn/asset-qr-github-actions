@@ -68,7 +68,7 @@ jobs:
     if: startsWith(github.ref, 'refs/tags/')
 
 
-## Secrets Configuration
+## Secrets Configuration ##
 
 GitHub Secrets can be added in:
 
