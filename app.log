@@ -1,0 +1,5 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/home/shankar/Desktop/asset_QR_V1.2.3_final/app.py", line 9, in <module>
+    from flask import (
+ModuleNotFoundError: No module named 'flask'
