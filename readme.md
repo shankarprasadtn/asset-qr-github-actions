@@ -66,3 +66,26 @@ jobs:
 
   deploy-production:
     if: startsWith(github.ref, 'refs/tags/')
+
+
+## Secrets Configuration
+
+GitHub Secrets can be added in:
+
+Settings → Secrets and variables → Actions
+
+Examples:
+
+DEPLOY_KEY
+API_TOKEN
+How It Works
+Push to main branch → Build + Test
+Push to staging branch → Build + Test + Deploy to Staging
+Create release tag → Build + Deploy to Production
+How to Run Application Manually
+pip install -r requirements.txt
+python app.py
+
+Open in browser:
+
+http://localhost:5000
