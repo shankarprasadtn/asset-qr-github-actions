@@ -91,7 +91,11 @@ Open in browser:
 http://localhost:5000
 
 **Below with the Repo details**
-* New repo
 * GitHub Actions workflow
 * README
 * Screenshots
+* <img width="1919" height="1199" alt="Screenshot 2026-04-14 184701" src="https://github.com/user-attachments/assets/06fa23c4-c64d-4d70-ad0f-7f1c01b544e9" />
+* <img width="951" height="1079" alt="Screenshot 2026-04-14 190226" src="https://github.com/user-attachments/assets/b12c2e93-c3eb-46ac-b69c-7ff6e368ff87" />
+* <img width="950" height="1070" alt="Screenshot 2026-04-14 190311" src="https://github.com/user-attachments/assets/65fc33e3-348b-4019-b964-464d0166e5e2" />
+
+
